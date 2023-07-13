@@ -1,0 +1,126 @@
+2023-05-18 18:31:53 INFO  DataAcces:38 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 18:31:53 ERROR DataAcces:39 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 20:40:53 INFO  DataAcces:35 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 20:40:53 ERROR DataAcces:36 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 20:51:35 INFO  DataAcces:191 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 20:51:35 ERROR DataAcces:192 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 20:51:49 INFO  DataAcces:191 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 20:51:49 ERROR DataAcces:192 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:09:49 INFO  DataAcces:208 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:09:49 ERROR DataAcces:209 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:09:56 INFO  DataAcces:208 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:09:56 ERROR DataAcces:209 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:11:47 INFO  DataAcces:206 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:11:47 ERROR DataAcces:207 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:11:54 INFO  DataAcces:206 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:11:54 ERROR DataAcces:207 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:17:58 INFO  DataAcces:194 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:17:58 ERROR DataAcces:195 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:24:47 INFO  DataAcces:193 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:24:47 ERROR DataAcces:194 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:26:25 INFO  DataAcces:193 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:26:25 ERROR DataAcces:194 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:28:40 INFO  DataAcces:193 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:28:40 ERROR DataAcces:194 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:36:54 INFO  DataAcces:185 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:36:54 ERROR DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:37:58 INFO  DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:37:58 ERROR DataAcces:187 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:38:11 INFO  DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:38:11 ERROR DataAcces:187 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:41:50 INFO  DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:41:50 ERROR DataAcces:187 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-18 21:58:52 INFO  DataAcces:186 - Duplicate entry '0304F1AA' for key 'PRIMARY'
+2023-05-18 21:58:52 ERROR DataAcces:187 - Duplicate entry '0304F1AA' for key 'PRIMARY'
+2023-05-18 21:59:31 INFO  DataAcces:186 - Duplicate entry '0304F1AA' for key 'PRIMARY'
+2023-05-18 21:59:31 ERROR DataAcces:187 - Duplicate entry '0304F1AA' for key 'PRIMARY'
+2023-05-19 15:20:32 INFO  DataAcces:186 - Duplicate entry '0304F1AA' for key 'PRIMARY'
+2023-05-19 15:20:32 ERROR DataAcces:187 - Duplicate entry '0304F1AA' for key 'PRIMARY'
+2023-05-19 17:25:15 INFO  DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-19 17:25:15 ERROR DataAcces:187 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-19 18:55:47 INFO  DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-19 18:55:47 ERROR DataAcces:187 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-19 21:25:05 INFO  DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-05-19 21:25:05 ERROR DataAcces:187 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-06-03 20:16:24 INFO  DataAcces:186 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-06-03 20:16:24 ERROR DataAcces:187 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
